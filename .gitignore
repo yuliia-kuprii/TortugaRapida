@@ -1,0 +1,8 @@
+build/
+dist/
+Tortuga Rápida.spec
+venv/
+*.pyc
+.idea
+.DS_Store
+.idea/workspace.xml
